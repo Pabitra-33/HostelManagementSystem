@@ -52,4 +52,5 @@ We can improve the efficiency of the system,thus overcome the drawbacks of the e
 . Edit User Admin Status<br>
 . Data Controlled by only Admins<br>
 
-- "Hostel Management System” is a software developed for managing various activities in the hostel. For the past few years the number of educational institutions is increasing rapidly. 
+- "Hostel Management System” is a software developed for managing various activities in the hostel. For the past few years the number of educational institutions is increasing rapidly.
+- Thereby the number of hostels is also increasing for the accommodation of the students studying in this institution. And hence there is a lot of strain on the person who are running the hostel and software’s are not usually used in this context. 
