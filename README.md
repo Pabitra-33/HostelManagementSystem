@@ -50,4 +50,6 @@ We can improve the efficiency of the system,thus overcome the drawbacks of the e
 . Delete Attendance of previous n days<br>
 . Control User List<br>
 . Edit User Admin Status<br>
-. Data Controlled by only Admins<br><br>
+. Data Controlled by only Admins<br>
+
+- "Hostel Management System” is a software developed for managing various activities in the hostel. For the past few years the number of educational institutions is increasing rapidly. 
